@@ -19,5 +19,5 @@ value = driver.current_url
 ### 現在のページソースを取得する
 
 ```
-value = driver.pageen_source
+value = driver.page_source
 ```
